@@ -1,4 +1,12 @@
 # FoundU — Platform Lost & Found Mahasiswa Kampus
+Nama Anggota Kelompok:
+1.	Aisyah Nur Sabrina H1D024128
+2.	Atika Cinta Khaerunnisa H1D024109
+3.	Muhammad Javier Salman Hidayat H1D024120
+4.	Jovita Fashya Islami H1D024125
+5.	Qayla Zahra Era Putri H1D024133
+
+Link Youtube = https://youtu.be/PYW3xqFq8MA  
 
 FoundU adalah platform berbasis web untuk membantu mahasiswa menemukan barang yang hilang di area kampus. Mahasiswa dapat melaporkan barang temuan, mencari barang miliknya, dan mengklaim barang. Admin bertugas memoderasi konten spam.
 
